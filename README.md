@@ -1,5 +1,3 @@
-# Jungod — Huang Yijun
-
 *Aerospace engineering + CS @ Northwestern Polytechnical University · grad-school-bound (2027) · building with AI agents, every day.*
 
 I design, run, and debug AI agent systems. **Open to remote AI work** — agent engineering, AI testing & eval, prompt systems.
